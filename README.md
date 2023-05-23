@@ -3,15 +3,13 @@ Predicting Doctor Fees
 <h1 align="center">Hi 👋, I'm Akash Nirmal</h1>
 <h3 align="center">A Creative and Data-Driven Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav69-st&label=Profile%20views&color=0e75b6&style=flat" alt="pranav69-st" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalakash993&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalakash993" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav69-st" alt="pranav69-st" /></a> </p>
-
-- 🔭 I’m currently working on [MEDCOS](https://github.com/Pranav69-st/Medcos-A-Prediction-Project)
+- 🔭 I’m currently working on [MEDCOS](https://github.com/nirmalakash993/Medcos-A-Prediction-Project)
 
 - 🌱 I’m  **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pranav69-st](https://github.com/Pranav69-st)
+- 👨‍💻 All of my projects are available at [https://github.com/nirmalakash993](https://github.com/nirmalakash993)
 
 - 💬 Ask me about **Data Analytics**
 
