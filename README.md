@@ -15,12 +15,12 @@ Predicting Doctor Fees
 
 - 📫 How to reach me **nirmalakash993@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V9-rIC6BxYAUd9syk_Q0RSWkI0NFgcIe/view?usp=share_link](https://drive.google.com/file/d/1V9-rIC6BxYAUd9syk_Q0RSWkI0NFgcIe/view?usp=share_link)
+- 📄 To Know about my experiences [Click Here](https://drive.google.com/file/d/1HXyHzliZaAtJfPf5rg7Y0TA8Z8Fldc_u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranav-choudhary-1b3995199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-choudhary-1b3995199" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/choudharypranav5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="choudharypranav5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nirmalakash993/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-choudhary-1b3995199" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nirmalakash993?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="choudharypranav5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,9 +70,3 @@ Contributors
 - Anshika Singh
 - Pranav Choudhary
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav69-st&show_icons=true&locale=en&layout=compact" alt="pranav69-st" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav69-st&show_icons=true&locale=en" alt="pranav69-st" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav69-st&" alt="pranav69-st" /></p>
