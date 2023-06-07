@@ -9,7 +9,7 @@ Predicting Doctor Fees
 
 - 🌱 I’m  **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nirmalakash993](https://github.com/nirmalakash993)
+- 👨‍💻 All of my projects are available [Here](https://github.com/nirmalakash993)
 
 - 💬 Ask me about **Data Analytics**
 
